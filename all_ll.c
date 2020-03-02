@@ -1,4 +1,4 @@
-//needs debugging
+//all insertion techniques(push/ insertafter/ append) nodes
 
 #include<stdlib.h>
 #include<stdio.h>
